@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones changed again",
+      "category": "Electronics",
+      "price": 2499,
+      "description": "High-quality wireless headphones with clear sound and deep bass.",
+      "image": "https://placehold.co/600x400?text=Headphones",
+      "stock": 25,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 3999,
+      "description": "A stylish smartwatch with fitness tracking and notifications.",
+      "image": "https://placehold.co/600x400?text=Smart+Watch",
+      "stock": 18,
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Fashion",
+      "price": 3200,
+      "description": "Lightweight running shoes designed for comfort and everyday workouts.",
+      "image": "https://placehold.co/600x400?text=Running+Shoes",
+      "stock": 30,
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "Travel Backpack",
+      "category": "Accessories",
+      "price": 1850,
+      "description": "A durable backpack with multiple compartments for travel and daily use.",
+      "image": "https://placehold.co/600x400?text=Backpack",
+      "stock": 22,
+      "rating": 4.4
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 4500,
+      "description": "A responsive mechanical keyboard with tactile switches and customizable lighting.",
+      "image": "https://placehold.co/600x400?text=Keyboard",
+      "stock": 15,
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "name": "Ceramic Coffee Mug",
+      "category": "Home & Kitchen",
+      "price": 450,
+      "description": "A minimalist ceramic coffee mug perfect for your favorite beverages.",
+      "image": "https://placehold.co/600x400?text=Coffee+Mug",
+      "stock": 50,
+      "rating": 4.2
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 2200,
+      "description": "A portable Bluetooth speaker with rich sound and a rechargeable battery.",
+      "image": "https://placehold.co/600x400?text=Speaker",
+      "stock": 20,
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "name": "Leather Wallet",
+      "category": "Accessories",
+      "price": 1200,
+      "description": "A sleek wallet with multiple card slots and a cash compartment.",
+      "image": "https://placehold.co/600x400?text=Wallet",
+      "stock": 35,
+      "rating": 4.1
+    },
+    {
+      "id": 9,
+      "name": "Desk Lamp",
+      "category": "Home & Kitchen",
+      "price": 1600,
+      "description": "A modern LED desk lamp with adjustable brightness for studying and working.",
+      "image": "https://placehold.co/600x400?text=Desk+Lamp",
+      "stock": 28,
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "name": "Power Bank",
+      "category": "Electronics",
+      "price": 1800,
+      "description": "A compact 20000mAh power bank with fast charging support.",
+      "image": "https://placehold.co/600x400?text=Power+Bank",
+      "stock": 40,
+      "rating": 4.6
+    }
+  ]
+}
